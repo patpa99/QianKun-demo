@@ -1,1 +1,1 @@
-# QianKun-demo
+# Angular app
